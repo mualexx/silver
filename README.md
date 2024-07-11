@@ -1,2 +1,2 @@
-# TheLearningCenter.github.io
+# silver.github.io
 Official*
