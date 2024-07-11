@@ -1,2 +1,2 @@
-# altec.github.io
+# TheLearningCenter.github.io
 Official*
